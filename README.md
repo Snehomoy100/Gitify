@@ -1,3 +1,11 @@
+## Live URL (up & running)
+
+You can simply access this project by clicking on (https://gityfi.netlify.app/).
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
